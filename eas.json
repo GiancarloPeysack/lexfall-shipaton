@@ -1,0 +1,50 @@
+{
+  "cli": { "version": ">= 12.0.0", "appVersionSource": "remote" },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": { "simulator": true },
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "",
+        "EXPO_PUBLIC_REVENUECAT_IOS_KEY": "",
+        "EXPO_PUBLIC_REVENUECAT_ANDROID_KEY": ""
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "ios": { "simulator": false },
+      "channel": "preview",
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "",
+        "EXPO_PUBLIC_REVENUECAT_IOS_KEY": "",
+        "EXPO_PUBLIC_REVENUECAT_ANDROID_KEY": ""
+      }
+    },
+    "production": {
+      "autoIncrement": true,
+      "channel": "production",
+      "ios": { "image": "latest" },
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "",
+        "EXPO_PUBLIC_REVENUECAT_IOS_KEY": "",
+        "EXPO_PUBLIC_REVENUECAT_ANDROID_KEY": ""
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleTeamId": "A744HWRD95",
+        "ascAppId": "6786614029"
+      },
+      "android": {
+        "serviceAccountKeyPath": "./google-play-key.json",
+        "track": "internal"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "field": "med",
+  "topic": "Clinical vocabulary",
+  "words": [
+    "palliative", "prognosis", "diagnosis", "etiology", "idiopathic", "iatrogenic",
+    "comorbidity", "sequela", "prodromal", "febrile", "afebrile", "ischemia",
+    "infarction", "necrosis", "atrophy", "hypertrophy", "edema", "effusion",
+    "lesion", "malignant", "benign", "metastasis", "neoplasm", "carcinoma",
+    "sarcoma", "biopsy", "excision", "resection", "anastomosis", "suture",
+    "prophylaxis", "contraindication", "titration", "dosage", "analgesic",
+    "anesthesia", "sedation", "antipyretic", "antiemetic", "anticoagulant",
+    "vasodilation", "vasoconstriction", "tachycardia", "bradycardia", "arrhythmia",
+    "hypertension", "hypotension", "hyperglycemia", "hypoglycemia", "sepsis",
+    "septicemia", "bacteremia", "inflammation", "suppuration", "abscess",
+    "cellulitis", "erythema", "pruritus", "cyanosis", "jaundice", "pallor",
+    "malaise", "lethargy", "syncope", "vertigo", "tinnitus", "dyspnea",
+    "apnea", "hypoxia", "asphyxia", "auscultation", "palpation", "percussion",
+    "cardiac", "pulmonary", "renal", "hepatic", "gastric", "cerebral",
+    "vascular", "lymphatic", "endocrine", "immunosuppression", "autoimmune",
+    "pathogen", "virulence", "contagion", "epidemiology", "morbidity",
+    "mortality", "convalescence", "remission", "relapse", "chronic", "acute",
+    "systemic", "localized", "bilateral", "unilateral", "proximal", "distal",
+    "anterior", "posterior", "lateral", "medial", "supine", "prone",
+    "perfusion", "homeostasis", "metabolism", "catabolism", "anabolism",
+    "hemostasis", "coagulation", "hemorrhage", "hematoma", "thrombus", "embolism",
+    "aneurysm", "stenosis", "occlusion", "perforation", "ulceration", "fibrosis",
+    "sclerosis", "degeneration", "regeneration", "innervation", "denervation",
+    "analgesia", "paresthesia", "neuralgia", "myalgia", "arthralgia", "cephalalgia"
+  ]
+}

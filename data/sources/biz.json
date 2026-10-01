@@ -1,0 +1,27 @@
+{
+  "field": "biz",
+  "topic": "Business & finance",
+  "words": [
+    "lucrative", "fungible", "arbitrage", "amortize", "liquidity", "leverage",
+    "dividend", "equity", "accrue", "solvent", "hedge", "valuation", "yield",
+    "depreciation", "receivable", "illiquid", "remittance", "fiduciary",
+    "stakeholder", "incumbent", "procurement", "benchmark", "overhead",
+    "incentivize", "mandate", "quorum", "proxy", "vested", "escrow", "collateral",
+    "underwrite", "capitalize", "monetize", "diversify", "consolidate", "acquisition",
+    "merger", "divestiture", "insolvency", "bankruptcy", "receivership", "liquidation",
+    "recession", "inflation", "deflation", "stagflation", "recapitalize", "refinance",
+    "amortization", "accretion", "goodwill", "intangible", "tangible", "asset",
+    "liability", "solvency", "leveraged", "creditor", "debtor", "guarantor",
+    "surety", "indemnity", "actuarial", "premium", "annuity", "portfolio",
+    "derivative", "commodity", "futures", "option", "warrant", "debenture",
+    "bond", "coupon", "maturity", "principal", "compounding", "discounting",
+    "annualized", "prorated", "accrued", "deferred", "contingent", "provisional",
+    "remuneration", "emolument", "commission", "brokerage", "arrears", "reconciliation",
+    "audit", "ledger", "reconcile", "disbursement", "expenditure", "revenue",
+    "turnover", "margin", "markup", "markdown", "surplus", "deficit", "shortfall",
+    "forecast", "projection", "budgetary", "fiscal", "monetary", "capital",
+    "syndicate", "consortium", "conglomerate", "subsidiary", "affiliate", "holding",
+    "franchise", "licensee", "distributor", "wholesaler", "retailer", "vendor",
+    "logistics", "inventory", "throughput", "scalability", "attrition", "retention"
+  ]
+}

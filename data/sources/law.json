@@ -1,0 +1,27 @@
+{
+  "field": "law",
+  "topic": "Legal vocabulary",
+  "words": [
+    "ostensible", "statutory", "tortious", "indemnify", "estoppel", "adjournment",
+    "plaintiff", "injunction", "precedent", "liable", "defendant", "litigant",
+    "appellant", "respondent", "affidavit", "deposition", "subpoena", "arraignment",
+    "indictment", "acquittal", "conviction", "remand", "recuse", "quash",
+    "adjudicate", "arbitration", "mediation", "settlement", "damages", "restitution",
+    "negligence", "malfeasance", "misfeasance", "nonfeasance", "culpability",
+    "liability", "indemnity", "warranty", "covenant", "breach", "rescission",
+    "repudiation", "forbearance", "consideration", "duress", "coercion", "fraud",
+    "misrepresentation", "rescind", "void", "voidable", "enforceable", "binding",
+    "jurisdiction", "venue", "standing", "justiciable", "moot", "res",
+    "tort", "delict", "trespass", "nuisance", "defamation", "libel", "slander",
+    "conveyance", "easement", "encumbrance", "lien", "mortgage", "foreclosure",
+    "tenancy", "leasehold", "freehold", "escheat", "probate", "intestate",
+    "testator", "bequest", "devise", "trustee", "fiduciary", "beneficiary",
+    "codicil", "attestation", "notarize", "ratify", "promulgate", "repeal",
+    "amendment", "statute", "ordinance", "regulation", "bylaw", "jurisprudence",
+    "equity", "injunctive", "declaratory", "mandamus", "certiorari", "habeas",
+    "bailment", "consignment", "assignment", "novation", "subrogation", "garnishment",
+    "attachment", "levy", "distraint", "replevin", "detinue", "conversion",
+    "vicarious", "joint", "several", "privity", "estopped", "waiver", "laches",
+    "prescription", "limitation", "accrual", "abatement", "mitigation", "quantum"
+  ]
+}

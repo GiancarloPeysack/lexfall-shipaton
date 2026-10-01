@@ -1,0 +1,104 @@
+{
+  "expo": {
+    "name": "Lexfall",
+    "slug": "lexfall",
+    "scheme": "vorto",
+    "version": "0.1.62",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.gpeysack.lexfall",
+      "entitlements": {
+        "com.apple.security.application-groups": [
+          "group.com.gpeysack.lexfall",
+          "group.com.gpeysack.lexfall",
+          "group.com.gpeysack.lexfall"
+        ],
+        "aps-environment": "production"
+      },
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSPhotoLibraryUsageDescription": "Add one of your own photos as the background of a shareable word card.",
+        "NSPhotoLibraryAddUsageDescription": "Save your word cards to your photo library.",
+        "LSApplicationQueriesSchemes": [
+          "whatsapp",
+          "instagram",
+          "instagram-stories",
+          "fb",
+          "facebook",
+          "fb-messenger"
+        ],
+        "UIBackgroundModes": [
+          "remote-notification"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.gpeysack.lexfall"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "@bacons/apple-targets",
+        {
+          "appleTeamId": "A744HWRD95"
+        }
+      ],
+      "./plugins/withGradleProps",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 35,
+            "targetSdkVersion": 35,
+            "buildToolsVersion": "35.0.0",
+            "newArchEnabled": true
+          },
+          "ios": {
+            "deploymentTarget": "15.1",
+            "newArchEnabled": true
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "build": {
+          "experimental": {
+            "ios": {
+              "appExtensions": [
+                {
+                  "bundleIdentifier": "com.gpeysack.lexfall.widget",
+                  "targetName": "VortoWidget",
+                  "entitlements": {
+                    "com.apple.security.application-groups": [
+                      "group.com.gpeysack.lexfall"
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "projectId": "eb8afe26-fd5d-432a-a570-af26f1158654"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/eb8afe26-fd5d-432a-a570-af26f1158654"
+    },
+    "owner": "gpeysack"
+  }
+}
